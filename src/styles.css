@@ -1,0 +1,33 @@
+html,
+body {
+  height: 100%;
+}
+
+.mainCity {
+  font-size: 26px;
+  padding-top: 40px;
+}
+li {
+  list-style-type: none; /* Убираем маркеры */
+}
+.mainTemp {
+  font-size: 46px;
+}
+.tempSystem {
+  text-decoration: underline;
+  font-size: 26px;
+  cursor: pointer;
+}
+
+.day {
+  padding-bottom: 8px;
+}
+ul {
+  padding-left: 0; /* Сдвигаем список влево */
+}
+.card-body {
+  font-family: "Young Serif", serif;
+}
+.actualDay {
+  font-size: 18px;
+}
